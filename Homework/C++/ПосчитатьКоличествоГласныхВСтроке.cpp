@@ -5,7 +5,7 @@ using namespace std;
 
 int main() 
 	{
-	string gl = "aeyuoiёуеэоаыяию";
+	string gl = "aeyuoiёуеэоаыяиюAEYUOIЁУЕЭОАЫЯИЮ";
 	string str;
 	getline(cin, str);
 	bool q;
